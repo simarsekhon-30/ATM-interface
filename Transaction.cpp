@@ -5,10 +5,10 @@
 using namespace std;
 
 Transaction::Transaction(int i, string t, double a, double b) {
-    id = i;
-    type = t;
-    amount = a;
-    balance = b;
+ id = i;
+ type = t;
+ amount = a;
+ balance = b;
 }
 
 void Transaction::display() {
