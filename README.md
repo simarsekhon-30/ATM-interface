@@ -6,6 +6,7 @@ ATM Interface is a C++ mini project developed using Object-Oriented Programming 
 
 The project simulates the basic working of an Automated Teller Machine (ATM). It allows multiple users to access their individual accounts and perform banking operations such as checking balance, depositing money, withdrawing cash, and viewing transaction history.
 
+An Automated Teller Machine (ATM) is an electronic banking system that allows customers to perform basic banking operations without visiting a bank branch. It provides a convenient, secure, and time-saving way to access banking services.
 This project demonstrates how OOP concepts can be used to develop a simple banking application.
 
 ## 2\. Project Objectives
@@ -18,6 +19,8 @@ The main objectives of this project are:
 - To implement PIN-based authentication.
 - To maintain transaction records.
 - To understand account management using C++ classes.
+- To implement balance enquiry efficiently.
+- 
 
 ## 3\. Features
 
@@ -32,6 +35,8 @@ The ATM Interface project includes the following features:
 - **Transaction History:** Maintains records of account transactions.
 - **Savings Tracker:** Helps users monitor their savings.
 - **Spending Analyzer:** Helps users analyze their spending.
+- **PIN Change:** Allows users to change their existing ATM PIN.
+- **Secure Logout:** Allows users to safely exit their accounts.
 
 
 ## 4\. Technologies Used
