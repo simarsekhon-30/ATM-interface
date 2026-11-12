@@ -17,7 +17,7 @@ int main() {
     );
 
     SavingsAccount sukhman(
-        "Sukhman", 2514200, 3456, 25000
+        "Sukhman", 2514200, 0987, 25000
        );
 
     int choice;
