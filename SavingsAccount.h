@@ -4,11 +4,10 @@
 
 #include "BankAccount.h"
 
-class SavingsAccount : public BankAccount {
+class SavingsAccount : public BankAccount{
 public:
-    SavingsAccount(string n, int acc, int p, double b);
+ SavingsAccount(string n, int acc, int p, double b);
 
-    string accountType() override;
+string accountType() override;
 };
-
 #endif
